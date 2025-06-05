@@ -1,5 +1,5 @@
 # RedeemingProtocol
-# THE REDEEMING PROTOCOL   By: Carlos J Perez L   ""A sovereign monetary system where debt burns, wealth circulates, and poverty ends."."   **Whitepaper Draft**: [Coming by 2024-06-05 06:00 UTC]    
+# THE REDEEMING PROTOCOL   By: Carlos Javier Perez   ""A sovereign monetary system where debt burns, wealth circulates, and poverty ends."."   **Whitepaper Draft**: [Coming by 2024-06-05 06:00 UTC]    
 
 # REDEEMING CAPITALISM:  
 ## A Protocol for Post-Scarcity Sovereignty  
