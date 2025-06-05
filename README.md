@@ -1,12 +1,10 @@
 # RedeemingProtocol
-# THE REDEEMING PROTOCOL   By: Carlos J Perez L   "A monetary system where debt burns, poverty expires, and money serves humans — not bankers."   **Whitepaper Draft**: [Coming by 2024-06-05 06:00 UTC]    
+# THE REDEEMING PROTOCOL   By: Carlos J Perez L   ""A sovereign monetary system where debt burns, wealth circulates, and poverty ends."."   **Whitepaper Draft**: [Coming by 2024-06-05 06:00 UTC]    
 
 # REDEEMING CAPITALISM:  
 ## A Protocol for Post-Scarcity Sovereignty  
-**Authored by Carlos J Perez L, Founder of Redeemia**  
+**Authored by Carlos J Perez L, Founder of Redeemia2.0+1 Protocol**  
 **Date: June 4, 2025**  
-
----
 
 ### Abstract  
 We propose a sovereign monetary system where:  
@@ -15,13 +13,18 @@ We propose a sovereign monetary system where:
 3. **Idle wealth decays**, forcing velocity to end hoarding.  
 Result: Artificial scarcity dies. Poverty becomes mathematically impossible.  
 
----
+# THE REDEEMING PROTOCOL  
+**Sovereign Monetary OS for Post-Scarcity Civilizations**  
 
-### 1. Core Architecture  
-```mermaid
-graph TD
-    A[Congress Mints 1T ST] --> B[FED Airdrops to Citizens]
-    B --> C[Public Ledger: All Transactions Immutable]
-    C --> D[Lending Protocol: 0% Loans]
-    D --> E[Repayment → ST Burned]
-    D --> F[Default → Collateral Liquidated → ST Burned]
+> "Burning artificial scarcity since 2025"  
+
+## CORE PILLARS  
+| Pillar | Mechanism | Impact |  
+|--------|-----------|--------|  
+| **Money as Equity** | ST minted as public property | Ends debt-based creation |  
+| **Debt Incineration** | Loan repayment → Token burn | Eliminates compound interest |  
+| **Demurrage Engine** | -0.5%/mo idle wealth decay | Forces economic velocity |  
+| **Algorithmic Abundance** | Poverty-indexed minting | Automates universal dignity |  
+
+
+
