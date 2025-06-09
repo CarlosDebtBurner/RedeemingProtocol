@@ -27,7 +27,7 @@ The Redeeming Sovereign Model reimagines how money, dignity, and digital trust c
 
 ## Live Site
 
-Visit the site at: [www.redeemingsovereignmodel.com](http://www.redeemingsovereignmodel.com)
+Visit the site at: http://www.redeemingsovereignmodel.com)
 
 ## License
 
