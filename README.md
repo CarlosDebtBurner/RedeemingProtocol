@@ -1,34 +1,52 @@
-# The Redeeming Sovereign Model
+The Redeeming Sovereign Model
 
-A Sovereign Digital Currency for Economic Restoration and Human Dignity  
-Created by Carlos J. Perez
+A Sovereign Digital Currency for Economic Restoration and Human DignityCreated by Carlos J. Perez
 
-## Mission
+Mission
 
 To develop a sovereign monetary framework that:
 
-- Ends debt traps  
-- Eradicates systemic poverty  
-- Re-centers currency on human dignity, not banking profits
+Ends debt traps and predatory credit cycles
 
-## Overview
+Eradicates systemic poverty through universal, behavioral equity
 
-The Redeeming Sovereign Model reimagines how money, dignity, and digital trust can coexist. It offers:
+Re-centers currency on human dignity, not banking profits
 
-- Universal capital distribution to all adult citizens  
-- Automated savings and responsible spending tools  
-- Programmable taxation (e.g., 0% on food, 75% on luxury)  
-- Behavior-based public credit (outside traditional banks)  
-- Mechanisms to burn repaid debt, fighting inflation and accumulation
+Overview
 
-## Whitepaper
+The Redeeming Sovereign Model reimagines how money, dignity, and digital trust can coexist in sovereign economies. It proposes:
 
-[Read the Whitepaper](whitepaper_draft.md)
+Universal capital distribution to all adult citizens
 
-## Live Site
+Behavior-sensitive smart contracts guiding savings, taxation, and credit
 
-Visit the site at: https://redeemingsovereignmodel.com
+Progressive, programmable taxation (e.g., 0% on food, 75% on luxury goods)
 
-## License
+On-chain public credit independent of traditional banks
 
-© 2025 Carlos J. Perez. All rights reserved.
+Token-burning debt resolution to mitigate long-term inflation risks
+
+This framework integrates blockchain infrastructure with monetary policy logic to promote fairness, efficiency, and national self-determination.
+
+Whitepaper
+
+“To redeem a broken economy, we must first redeem the purpose of money itself.” — Carlos J. Perez
+
+Read the Full Whitepaper
+
+Research and Collaboration
+
+This repository serves as the public archive and development environment for the Redeeming Sovereign Model. While the project is open-source in its architecture, active collaboration will begin in late 2025 in conjunction with formal academic and institutional partnerships.
+
+Researchers, economists, and policy institutions interested in future engagement may contact the author directly.
+
+Contact: carlos@redeemingsovereignmodel.com
+
+Live Website
+
+Visit the official site: https://redeemingsovereignmodel.com
+
+License
+
+© 2025 Carlos J. Perez. All rights reserved.The content is publicly accessible for review and reference, but not open for modification or redistribution without express permission.
+
