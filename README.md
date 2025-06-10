@@ -33,7 +33,7 @@ This framework integrates blockchain infrastructure with monetary policy logic t
 
 “To redeem a broken economy, we must first redeem the purpose of money itself.” — Carlos Javier Perez
 
-[Read the Whitepaper](https://github.com/CarlosDebtBurner/Redeeming-Sovereign_Model/blob/main/whitepaper.html)
+[Read the whitepapper] (https://redeemingsovereignmodel.com/whitepaper.html)
 
 ---
 
