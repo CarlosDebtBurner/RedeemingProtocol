@@ -3,6 +3,10 @@
 A Sovereign Digital Currency for Economic Restoration and Human Dignity  
 Created by Carlos Javier Perez
 
+### Version 1.0 – Foundational Release
+
+This is the initial public release of the Redeeming Sovereign Model (RSM), a programmable digital currency framework designed to restore economic equity and dignity. Academic refinement will follow as part of upcoming graduate studies at Cambridge and SOAS.
+
 ---
 
 ## Mission
