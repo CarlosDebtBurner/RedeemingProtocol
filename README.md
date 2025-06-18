@@ -1,7 +1,15 @@
+## Author
+
+Carlos Javier Perez Loeza  
+Senior Economics Student (B.A. Candidate)  
+University of Washington  
+ORCID: [https://orcid.org/0009-0003-4612-3559](https://orcid.org/0009-0003-4612-3559)
+
+---
 # The Redeeming Sovereign Model
 
 A Sovereign Digital Currency for Economic Restoration and Human Dignity  
-Created by Carlos Javier Perez Loeza
+Created by: Carlos Javier Perez Loeza
 
 ### Version 1.0 – Foundational Release
 
@@ -41,7 +49,9 @@ This framework integrates blockchain infrastructure with monetary policy logic t
 
 ---
 
-## Live Demo
+## Live Demo and Project Status
+
+This dashboard is a prototype interface for demonstrating the behavioral logic behind the RSM currency framework. Full blockchain integration and backend simulation are being developed separately.
 
 View the live RSM Dashboard here:  
 https://685311e6deae929a58c4cafc--fabulous-choux-26bfdc.netlify.app
@@ -64,21 +74,6 @@ If citing this project, please use the official DOI:
 - HTML, CSS, JavaScript
 - Chart.js (for token visualization)
 - Netlify (for deployment)
-
----
-
-## Project Status
-
-This dashboard is a prototype interface for demonstrating the behavioral logic behind the RSM currency framework. Full blockchain integration and backend simulation are being developed separately.
-
----
-
-## Author
-
-Carlos Javier Perez Loeza  
-Senior Economics Student (B.A. Candidate)  
-University of Washington  
-ORCID: [https://orcid.org/0009-0003-4612-3559](https://orcid.org/0009-0003-4612-3559)
 
 ---
 
