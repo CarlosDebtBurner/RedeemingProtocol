@@ -41,6 +41,13 @@ This framework integrates blockchain infrastructure with monetary policy logic t
 
 ---
 
+## Live Demo
+
+View the live RSM Dashboard here:  
+https://685311e6deae929a58c4cafc--fabulous-choux-26bfdc.netlify.app
+
+---
+
 ## Research and Collaboration
 
 This repository serves as the public archive and development environment for the Redeeming Sovereign Model. While the project is open-source in its architecture, active collaboration will begin in late 2025 in conjunction with formal academic and institutional partnerships.
