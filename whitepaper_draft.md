@@ -2,13 +2,13 @@
 
 Title: "The Redeeming Sovereign Model"
 subtitle: "A Sovereign Digital Currency for Economic Restoration and Human Dignity"
-author: Carlos J. Pérez  
+author: Carlos J. Pérez Loeza
 date: June 2025  
 version: 1.0  
 
 
 “To redeem a broken economy, we must first redeem the purpose of money itself.” 
-— Carlos Javier Pérez
+— Carlos Javier Pérez Loeza
 
 
 1. Introduction

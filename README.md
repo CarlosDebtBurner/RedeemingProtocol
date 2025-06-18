@@ -1,7 +1,7 @@
 # The Redeeming Sovereign Model
 
 A Sovereign Digital Currency for Economic Restoration and Human Dignity  
-Created by Carlos Javier Perez
+Created by Carlos Javier Perez Loeza
 
 ### Version 1.0 – Foundational Release
 
@@ -35,7 +35,7 @@ This framework integrates blockchain infrastructure with monetary policy logic t
 
 ## Whitepaper
 
-“To redeem a broken economy, we must first redeem the purpose of money itself.” — Carlos Javier Perez
+“To redeem a broken economy, we must first redeem the purpose of money itself.” — Carlos Javier Perez Loeza
 
 [Read the whitepapper] (https://redeemingsovereignmodel.com/whitepaper.html)
 
@@ -59,5 +59,5 @@ Visit the official site: [https://redeemingsovereignmodel.com](https://redeeming
 
 ## License
 
-© 2025 Carlos Javier Perez. All rights reserved.  
+© 2025 Carlos Javier Perez Loeza. All rights reserved.  
 The content is publicly accessible for review and reference, but not open for modification or redistribution without express permission.
