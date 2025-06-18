@@ -48,6 +48,40 @@ https://685311e6deae929a58c4cafc--fabulous-choux-26bfdc.netlify.app
 
 ---
 
+## Citation and Academic Record
+
+The full whitepaper is published at Zenodo:
+
+[The Redeeming Sovereign Model (RSM) — Zenodo DOI](https://doi.org/10.5281/zenodo.15628331)
+
+If citing this project, please use the official DOI:  
+`10.5281/zenodo.15628331`
+
+---
+
+## Technologies Used
+
+- HTML, CSS, JavaScript
+- Chart.js (for token visualization)
+- Netlify (for deployment)
+
+---
+
+## Project Status
+
+This dashboard is a prototype interface for demonstrating the behavioral logic behind the RSM currency framework. Full blockchain integration and backend simulation are being developed separately.
+
+---
+
+## Author
+
+Carlos Javier Perez Loeza  
+Senior Economics Student (B.A. Candidate)  
+University of Washington  
+ORCID: [https://orcid.org/0009-0003-4612-3559](https://orcid.org/0009-0003-4612-3559)
+
+---
+
 ## Research and Collaboration
 
 This repository serves as the public archive and development environment for the Redeeming Sovereign Model. While the project is open-source in its architecture, active collaboration will begin in late 2025 in conjunction with formal academic and institutional partnerships.
