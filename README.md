@@ -103,3 +103,13 @@ ___
 © 2025 Carlos Javier Perez Loeza. All rights reserved.  
 The content is publicly accessible for review and reference, but not open for modification or redistribution without express permission.
 
+## Intellectual Property Logic (Mermaid Diagram)
+
+```mermaid
+graph LR
+  A[Existing Elements] --> B[Novel Combination] --> C[Patentable System]
+  A --> D[Copyrighted Expression]
+```
+
+
+
