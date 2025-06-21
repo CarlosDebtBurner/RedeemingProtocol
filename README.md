@@ -107,9 +107,9 @@ The content is publicly accessible for review and reference, but not open for mo
 
 ```mermaid
 graph LR
-  A[Existing Elements] --> B[Novel<br>Combination]
-  B --> C[Patentable<br>System]
-  A --> D[Copyrighted<br>Expression]
+  A[Existing Elements] --> B[Novel Combination] --> C[Patentable System]
+  A --> D[Copyrighted Expression]
 ```
+
 
 
