@@ -95,6 +95,13 @@ Contact: [carlos@redeemingsovereignmodel.com](mailto:carlos@redeemingsovereignmo
 
 https://redeemingsovereignmodel.com
 
+___
+
+```mermaid
+graph LR
+A[Existing Elements] --> B[Novel Combination] --> C[Patentable System]
+A --> D[Copyrighted Expression]
+
 ---
 
 ## License
