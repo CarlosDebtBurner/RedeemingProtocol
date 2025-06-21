@@ -6,7 +6,9 @@ University of Washington
 ORCID: [https://orcid.org/0009-0003-4612-3559](https://orcid.org/0009-0003-4612-3559)
 
 ---
-# The Redeeming Sovereign Model
+
+# The Redeeming Sovereign Model  
+![Patent Pending](https://img.shields.io/badge/Patent-Pending-orange)
 
 A Sovereign Digital Currency for Economic Restoration and Human Dignity  
 Created by: Carlos Javier Perez Loeza
@@ -45,7 +47,9 @@ This framework integrates blockchain infrastructure with monetary policy logic t
 
 “To redeem a broken economy, we must first redeem the purpose of money itself.” — Carlos Javier Perez Loeza
 
-[Read the whitepapper] (https://redeemingsovereignmodel.com/whitepaper.html)
+[Read the Whitepaper](https://redeemingsovereignmodel.com/whitepaper.html)  
+[View on GitHub](docs/whitepaper.html)  
+[Zenodo DOI](https://doi.org/10.5281/zenodo.15628331)
 
 ---
 
@@ -53,7 +57,7 @@ This framework integrates blockchain infrastructure with monetary policy logic t
 
 This dashboard is a prototype interface for demonstrating the behavioral logic behind the RSM currency framework. Full blockchain integration and backend simulation are being developed separately.
 
-View the live RSM Dashboard here:  
+Live RSM Dashboard:  
 https://685311e6deae929a58c4cafc--fabulous-choux-26bfdc.netlify.app
 
 ---
@@ -71,8 +75,8 @@ If citing this project, please use the official DOI:
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
-- Chart.js (for token visualization)
+- HTML, CSS, JavaScript  
+- Chart.js (for token visualization)  
 - Netlify (for deployment)
 
 ---
@@ -89,7 +93,7 @@ Contact: [carlos@redeemingsovereignmodel.com](mailto:carlos@redeemingsovereignmo
 
 ## Live Website
 
-Visit the official site: [https://redeemingsovereignmodel.com](https://redeemingsovereignmodel.com)
+https://redeemingsovereignmodel.com
 
 ---
 
