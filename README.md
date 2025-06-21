@@ -47,7 +47,8 @@ This model integrates blockchain infrastructure with real-world policy logic to 
 
 “To redeem a broken economy, we must first redeem the purpose of money itself.” — Carlos Javier Perez Loeza
 
-[Read the Whitepaper](whitepaper.html)  
+[Read the Whitepaper](https://redeemingsovereignmodel.com/whitepaper.html)
+  
 [Zenodo DOI](https://doi.org/10.5281/zenodo.15628331)
 
 ---
