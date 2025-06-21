@@ -103,13 +103,3 @@ ___
 © 2025 Carlos Javier Perez Loeza. All rights reserved.  
 The content is publicly accessible for review and reference, but not open for modification or redistribution without express permission.
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-<div class="mermaid">
-graph LR
-  A[Existing Elements] --> B[Novel Combination] --> C[Patentable System]
-  A --> D[Copyrighted Expression]
-</div>
